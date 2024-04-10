@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Poppins';
-    src: url('./assets/fonts/poppins/Poppins-Regular.ttf') format('opentype');
+    src: url('./assets/fonts/Poppins/Poppins-Regular.ttf') format('opentype');
 }
 
 @font-face {
     font-family: 'Araboto';
-    src: url('./assets/fonts/araboto/Araboto.ttf') format('opentype');
+    src: url('./assets/fonts/Araboto/Araboto.ttf') format('opentype');
 }
 
 body {
